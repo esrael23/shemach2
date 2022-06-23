@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274190293658",
+    "project_id": "final-f9c11",
+    "storage_bucket": "final-f9c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274190293658:android:27c9acf665b2fd99fddd23",
+        "android_client_info": {
+          "package_name": "com.example.shemach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274190293658-i5pg2n4gle8sth6p9d454a0361h60g4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0VXbPkg8-KVzoFAl_VzCF-fxG_S2lwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274190293658-i5pg2n4gle8sth6p9d454a0361h60g4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
